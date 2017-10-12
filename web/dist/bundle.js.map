@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","sources":["../src/index.js"],"sourcesContent":["\nconsole.log(1)\nvar a = 123;\nvar b =34234;\n\nconsole.log(a,b)\n"],"names":["console","log","a","b"],"mappings":"AACAA,QAAQC,IAAI,GACZ,IAAIC,EAAI,IACJC,EAAG,MAEPH,QAAQC,IAAIC,EAAEC"}
